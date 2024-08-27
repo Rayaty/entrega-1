@@ -1,0 +1,35 @@
+h1{
+ color: rgb(17, 0, 255);
+ background-color: rgb(201, 250, 233);
+ margin: 0;
+ padding: 0;
+ justify-content: center;
+ align-items: center;
+ display: flex;
+
+
+}
+
+
+p{
+    font-size: 16;
+    color: gray;
+}
+ul{
+    max-width: 12px;
+    color: black;
+    margin:10px;
+height: px;
+}
+body{
+    background-color: rgb(0, 195, 255) ;
+}
+img{
+    margin: auto;
+  display: block;
+    width: 400px;
+    border-width: 3px;
+    border-style: solid ;
+    border-color: blue;
+
+}
